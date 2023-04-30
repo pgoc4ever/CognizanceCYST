@@ -22,7 +22,7 @@ Prithi G : Cryptography
 
 Priyanshu Aggarwal : Miscellaneous
 
-## Party
+## Party (100 Points)
 
 Tarun  gave me an ELF file and told if i could find the flag from it then he'll be giving me Party but I've no idea what to do. So help me finding the flag. 
 
