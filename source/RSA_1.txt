@@ -1,0 +1,3 @@
+decrypt the below cipher text
+c = C5BEA8238C2FC7A2CE3C139445B21C2A46EB17BEBBBD4EAFC
+And perform the necessary operations to get the answer in the form of cipher text 
