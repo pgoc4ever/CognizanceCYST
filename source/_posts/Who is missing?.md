@@ -22,7 +22,7 @@ Prithi G : Cryptography
 
 Priyanshu Aggarwal : Miscellaneous
 
-## Who is missing?
+## Who is missing? (100 Points)
 
 After a massive fire broke out, one individual has gone missing. Can you help identify this person and uncover any hidden secrets they may have? We have received an anonymous note that could potentially aid in the investigation.
 
