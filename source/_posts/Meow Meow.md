@@ -27,8 +27,10 @@ Priyanshu Aggarwal : Miscellaneous
 A vibrant technicolor sunset reflecting off the waves of a tranquil sea.
 Ummmm... Smells like a caption of the post !!
 
-Link to the file : https://github.com/cognizance-amrita/CognizanceCYST/blob/main/source/scan.png
+Link to the file :
+https://github.com/cognizance-amrita/CognizanceCYST/blob/main/source/scan.png
 
-Flag Submissions form link : https://forms.gle/cQvPqYd5MxDQV9mw7
+Flag Submissions form link :
+https://forms.gle/cQvPqYd5MxDQV9mw7
 
 All the best ✨
