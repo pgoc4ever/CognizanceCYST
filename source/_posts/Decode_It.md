@@ -26,8 +26,10 @@ Priyanshu Aggarwal : Miscellaneous
 
 Classic Problem of Alice sending Bob a message. Help Bob in decoding the message.Given below are the hints necessary to obtain it.
 
-Link to the files : https://github.com/cognizance-amrita/CognizanceCYST/tree/main/source 
+Link to the files :
+https://github.com/cognizance-amrita/CognizanceCYST/tree/main/source 
 
-Flag Submissions form link : https://docs.google.com/forms/d/e/1FAIpQLSfrfFSQ8Ak5K2iwgAHBHPWlpz1Au-16-sJsXechzzC5O_W7iQ/viewform
+Flag Submissions form link :
+https://docs.google.com/forms/d/e/1FAIpQLSfrfFSQ8Ak5K2iwgAHBHPWlpz1Au-16-sJsXechzzC5O_W7iQ/viewform
 
 All the best ✨
