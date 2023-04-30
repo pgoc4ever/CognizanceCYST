@@ -22,7 +22,7 @@ Prithi G : Cryptography
 
 Priyanshu Aggarwal : Miscellaneous
 
-## Meow Meow ...
+## Meow Meow ... (50 Points)
 
 A vibrant technicolor sunset reflecting off the waves of a tranquil sea.
 Ummmm... Smells like a caption of the post !!
