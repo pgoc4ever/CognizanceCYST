@@ -26,7 +26,9 @@ Priyanshu Aggarwal : Miscellaneous
 
 After a massive fire broke out, one individual has gone missing. Can you help identify this person and uncover any hidden secrets they may have? We have received an anonymous note that could potentially aid in the investigation.
 
-Link to the file : https://github.com/cognizance-amrita/CognizanceCYST/blob/main/source/scan.png
+Link to the files : 
+https://github.com/cognizance-amrita/CognizanceCYST/blob/main/source/meme.jpeg.jpg
+https://github.com/cognizance-amrita/CognizanceCYST/blob/main/source/file.txt
 
 Flag Submissions form link : https://forms.gle/kj2zqcUqYXbcMaSW7
 
