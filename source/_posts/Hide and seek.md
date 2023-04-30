@@ -22,7 +22,7 @@ Prithi G : Cryptography
 
 Priyanshu Aggarwal : Miscellaneous
 
-## Hide and Seek
+## Hide and Seek (100 Points)
 Have you ever heard about hiding data in a image....help me to discover the hidden secret of this image
 
 Link to the files : 
