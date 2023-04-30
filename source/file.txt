@@ -1,0 +1,15 @@
+After
+A big fire accident occured in the man’s house (same man in the image), we managed to collect a note with a meme with his own image on it. The note says as follows:
+
+I missed a secret which was posted on his social media. I want to find that secret but I don't know where it is. I have some hints regarding where the secret is..
+
+The user name is 15 LETTERS LONG.
+
+The user name comprises of MY NAME and ZIP CODE of my current residence.
+
+Username Format:
+Name_Zipcode
+
+If the name is john doe then write the name as JohnDoe but in Leet Speak.
+
+And for the Zipcode of the city, use only the first 3 numbers that is common among all.
