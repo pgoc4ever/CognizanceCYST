@@ -22,7 +22,7 @@ Prithi G : Cryptography
 
 Priyanshu Aggarwal : Miscellaneous
 
-## Decrypt_me(50 Points)
+## Decrypt_me (50 Points)
 
 Arun encrypted the flag and gave me the .txt and a .c file and challenges me to find the flag but i don't have time to do these things as exam is so close. So please find the flag for me. Thank you in advance :)
 
