@@ -26,7 +26,9 @@ Priyanshu Aggarwal : Miscellaneous
 
 Arun encrypted the flag and gave me the .txt and a .c file and challenges me to find the flag but i don't have time to do these things as exam is so close. So please find the flag for me. Thank you in advance :)
 
-Link to the file : https://github.com/cognizance-amrita/CognizanceCYST/blob/main/source/rev1.c  https://github.com/cognizance-amrita/CognizanceCYST/blob/main/source/rev1.txt
+Link to the file :
+https://github.com/cognizance-amrita/CognizanceCYST/blob/main/source/rev1.c
+https://github.com/cognizance-amrita/CognizanceCYST/blob/main/source/rev1.txt
 
 Flag Submissions form link : https://forms.gle/hxXYjPCtcn5AT2Na8
 
