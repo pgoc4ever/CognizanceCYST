@@ -1,5 +1,5 @@
 ---
-title: Decode It
+title : Emperor's message
 date: 2023-04-30
 tags: Cryptography
 domain: CYS
