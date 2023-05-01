@@ -22,7 +22,8 @@ Prithi G : Cryptography
 
 Priyanshu Aggarwal : Miscellaneous
 
-Emperor's Message (50 Points)
+## Emperor's Message (50 Points)
+
 The great Roman dictator got a secret message from Mark Antony, which read ISMOFELA (given that the key is(3,7)).
 Help him ‘FIND’ the message.
 Flag Submissions form link : 
