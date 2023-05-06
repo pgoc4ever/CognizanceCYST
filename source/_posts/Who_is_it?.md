@@ -26,7 +26,7 @@ Priyanshu Aggarwal : Miscellaneous
 
 You have recently joined the Cognizance Server, so it's good if you get to know it well.
 Therefore, You need to search for a post posted in the announcements channel about workshops happening in 2022 on malwares and advanced cyberattacks, Latest trends in Cyber Security and Dark Web from which you might have got internships. 
-You need to take the name of the person who posted the post with the expert's company handle (without the @). The flag format will be CogCYS{Name_DiscordHandle}
+You need to take the name of the person who posted the post with the expert's company handle (without the @). The flag format will be CogCYS{Name_Company'sDiscordHandle}
 
 Link to the files : Cognizance Discord Server
 
