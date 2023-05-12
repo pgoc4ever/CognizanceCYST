@@ -19,7 +19,7 @@ Login with your PicoCTF account and start practicing!
 ```
 https://play.picoctf.org/practice
 ```
-Submission Deadline : 2023-05-12 11:59pm
+Submission Deadline : 4th June 2023 11:59pm
 
 Flag Submissions form link : [link](https://forms.gle/q46kZ64hxFrzWJnA6)
 
